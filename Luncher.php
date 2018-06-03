@@ -1,3 +1,5 @@
+gram.org/bot'.bot_
+490345977:AAEU0AywrlqSDUCFEQWIHYA_nsup4kD0bCI.'.);
 <?php
 /*
 سورس اصلی ربات پی وی رسان
